@@ -1,7 +1,7 @@
 # Hands-on Lab: Analyzing Historical Stock/Revenue Data and Building a Dashboard
 # Extracting and Visualizing Stock Data
 
-This assignment is a part of  my Course (Python Project for Data Science) provided by IBM SKILL NETWORK . In this project, we'll extract essential data from a dataset and display it in a graph. The goal is to provide a clear visualization of stock data and revenue data for two companies, Tesla and GameStop.
+This assignment is a part of  my Course (Python Project for Data Science) provided by IBM SKILL NETWORK . In this project, I'll extract essential data from a dataset and display it in a graph. The goal is to provide a clear visualization of stock data and revenue data for two companies, Tesla and GameStop.
 
 ## Table of Contents
 
